@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+#green > div.slider-track > div.slider-handle.min-slider-handle.round
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>bs-lte-slider-green</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
